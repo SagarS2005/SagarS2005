@@ -7,7 +7,7 @@
   <a href="https://github.com/SagarS2005"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://leetcode.com/SagarS2005"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
-
+<p><a href="https://sagars2005.github.io"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> </p>
 ---
 
 ## 💫 About Me
