@@ -76,13 +76,15 @@ public class Sagar {
 
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SagarS2005&show_icons=true&theme=merko&hide_border=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=SagarS2005&theme=merko&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SagarS2005&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=6366F1&title_color=6366F1" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=SagarS2005&theme=github-dark-blue&hide_border=true" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SagarS2005&theme=github_dark" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SagarS2005&theme=react-dark&hide_border=true&area=true&color=6366F1&line=6366F1&point=ffffff" width="98%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SagarS2005&layout=compact&theme=github_dark&hide_border=true&title_color=6366F1" width="40%" />
 </p>
 
 ---
