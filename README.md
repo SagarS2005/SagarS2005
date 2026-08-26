@@ -55,7 +55,7 @@ public class Sagar {
 | Project | Description | Tech |
 |--------|-------------|------|
 | 📺 [**VidTube**](https://github.com/SagarS2005/VidTube) 🔒 *(Private)* | Production-grade REST API with JWT auth (access/refresh tokens), video upload via Multer & Cloudinary, likes, comments, subscriptions, playlists & MongoDB aggregation pipelines | Node.js, Express, MongoDB, JWT, Cloudinary |
-| 🎯 [**Placement & Job Tracker**](https://github.com/SagarS2005/Placement-Job-tracker) *(In Progress)* | Helps students track job/internship applications across companies — with login/signup, application status tracking, and deadline reminder API | Node.js, Express, MongoDB, React (Vite) |
+| 🎯 [**Placement & Job Tracker**](https://github.com/SagarS2005/Placement-Job-tracker)  | Helps students track job/internship applications across companies — with login/signup, application status tracking, and deadline reminder API | Node.js, Express, MongoDB, React (Vite) |
 
 ### 🖥️ Frontend Projects
 
